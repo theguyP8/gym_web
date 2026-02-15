@@ -1,0 +1,14 @@
+main h2{
+    font-size: 2.8rem;
+    font-weight: bolder;
+    text-align: center;
+}
+main p, li{
+    font-size: 1.8rem;
+}
+.btns{
+    display: flex;
+}
+.btns p{
+    margin: 40px auto;
+}
